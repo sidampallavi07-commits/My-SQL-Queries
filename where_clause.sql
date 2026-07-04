@@ -1,0 +1,2 @@
+SELECT * FROM CUSTOMER 
+WHERE CITY ='Nagpur' ;
